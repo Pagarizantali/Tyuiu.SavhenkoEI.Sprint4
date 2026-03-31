@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="tyuiu.cources.programming.interfaces.dll" />
+  </Folder>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.SavchenkoEI.Sprint4.Task0.V27.Lib/Tyuiu.SavchenkoEI.Sprint4.Task0.V27.Lib.csproj" />
+    <Project Path="Tyuiu.SavchenkoEI.Sprint4.Task0.V27.Test/Tyuiu.SavchenkoEI.Sprint4.Task0.V27.Test.csproj" />
+    <Project Path="Tyuiu.SavchenkoEI.Sprint4.Task0.V27/Tyuiu.SavchenkoEI.Sprint4.Task0.V27.csproj" />
+  </Folder>
+  <Folder Name="/Task1/" />
+  <Folder Name="/Task2/" />
+  <Folder Name="/Task3/" />
+</Solution>
